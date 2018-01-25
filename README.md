@@ -1,8 +1,8 @@
-### Emotion Detection
+# Emotion Detection
 
 ## Detecting emotions of live twitter feed
 
-# Two Algorithms used
+### Two Algorithms used
 
 * Restricted Boltzman Machine (RBM)
 * Naive Bayes 
